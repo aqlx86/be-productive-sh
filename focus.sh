@@ -6,6 +6,8 @@ entries=(
   "127.0.0.1 www.facebook.com"
   "127.0.0.1 instagram.com"
   "127.0.0.1 www.instagram.com"
+  "127.0.0.1 threads.net"
+  "127.0.0.1 www.threads.net"
 )
 
 # Function to add entries
